@@ -1,0 +1,6 @@
+# Please keep these requirements alphabetized
+
+flask
+pathlib
+python-dotenv
+requests
